@@ -1,6 +1,8 @@
 # shopquick_app
 
 A new Flutter project.
+<br>
+Author - Paras Shakya
 
 ## Getting Started
 
